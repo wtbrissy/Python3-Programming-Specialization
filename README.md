@@ -1,7 +1,7 @@
 # Python3 Programming Specialisation 
 
 ### Introductory 
-Repository for course specialization [Python 3 Programming | Coursera](https://www.coursera.org/specializations/python-3-programming)) by University of Michigan. 
+Repository for course specialization [Python 3 Programming | Coursera](https://www.coursera.org/specializations/python-3-programming) by University of Michigan. 
 
 The 5 courses in this specialisation introduce learns to inspect and understand APIs and third party libraries to be used with Python 3, for instance, how apply pillow to open, view, and manipulate images, py-tesseract to detect text in images thought optical character recognition (ORC), and the open source computer vision library (opencv) to detect faces in images. 
 
